@@ -3,7 +3,7 @@
 
 [default]
 account = "analytics.central-us.azure"
-user = "SVC_LAB_USER"
+user = "svc_lab_user"
 password = "Learn!Snowflake!Quicklabs2024!"
 role = "HOL_ROLE"
 warehouse = "HOL_WH"
